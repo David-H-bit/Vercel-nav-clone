@@ -13,20 +13,20 @@ A responsive, modern navigation bar inspired by Vercel’s website.
 
 ## Quick Start
 
-1. Download the files: `prac.html`, `prac.css`, and `prac.js`
+1. Download the files: `index.html`, `index.css`, and `index.js`
 
 2. Include the CSS and font in your HTML `<head>`:
 
    ```html
-   <link rel="stylesheet" href="prac.css">
+   <link rel="stylesheet" href="index.css">
    <link rel="stylesheet" href="https://geisthub.vercel.app/font.css">
 
 3. Include the JavaScript before the closing </body> tag:
 
    ```html
-   <script src="prac.js"></script> 
+   <script src="index.js"></script> 
 
-4. Open prac.html in your browser
+4. Open index.html in your browser
 
 ## Notes
 This is a learning project that REPLICATES the design and behavior of Vercel’s navigation bar, built from scratch for educational purposes only.
