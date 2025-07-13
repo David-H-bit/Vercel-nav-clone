@@ -22,7 +22,9 @@ A responsive, modern navigation bar inspired by Vercel’s website.
    <link rel="stylesheet" href="https://geisthub.vercel.app/font.css">
 
 3. Include the JavaScript before the closing </body> tag:
-<script src="prac.js"></script>
+
+   ```html
+   <script src="prac.js"></script> 
 
 4. Open prac.html in your browser
 
